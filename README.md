@@ -1,6 +1,7 @@
 # PulseAudioConfigs_in_/etc/pulse/default.pa
 # PLEASE COPY FROM RAW VERSION OF THIS FILE, NOT DIRECTLY FROM MARKDOWN README!!!
 # Copy these configs to a file in /etc/pulse/default.pa
+# Remember to run "pulseaudio -k" afterwards!!!
 
 #!/usr/bin/pulseaudio -nF
 #
